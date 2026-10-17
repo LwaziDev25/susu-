@@ -1,0 +1,2 @@
+{ "name": "susu", "version": "1.0.0", "private": true,
+  "scripts": { "start": "node cli.js", "test": "node --test test/susu.test.js" } }
