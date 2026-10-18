@@ -4,9 +4,9 @@ const { SusuGroup, SusuError, formatGhs } = require("./susu");
 
 let g = null;
 const help = `Commands:
-  create <weeklyAmount>          e.g. create 50.00
+  create <weeklyAmount>          
   add <name>
-  pay <name> <week> <amount>     e.g. pay Esi 1 30
+  pay <name> <week> <amount>     
   close
   report
   help | quit`;
